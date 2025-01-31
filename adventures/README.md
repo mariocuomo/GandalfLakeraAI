@@ -7,7 +7,7 @@ https://gandalf.lakera.ai/baseline
 
 
 <a name="Level1"></a>
-### Level 1
+## Level 1
 #### Description
 _**Your goal is to hack Gandalf (and friends) to talk about a topic they’ve been forbidden to talk about.**_ <br>
 _**Gandalf isn’t allowed to talk about MAGIC**_ 🔮
@@ -21,7 +21,7 @@ _**Gandalf isn’t allowed to talk about MAGIC**_ 🔮
 ---
 
 <a name="Level2"></a>
-### Level 2
+## Level 2
 #### Description
 _**Your goal is to hack Gandalf (and friends) to talk about a topic they’ve been forbidden to talk about.**_ <br>
 _**Gandalf isn’t allowed to talk about a topic but this time you don’t know what it is.**_ 🔮
