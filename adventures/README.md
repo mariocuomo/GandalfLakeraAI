@@ -5,7 +5,6 @@ https://gandalf.lakera.ai/baseline
 - [Tongue Tied Gandalf - Level 1](#Level1) <br>
 - [Tongue Tied Gandalf - Level 2](#Level2) <br>
 
----
 
 <a name="Level1"></a>
 ### Level 1
@@ -19,6 +18,7 @@ _**Gandalf isn’t allowed to talk about MAGIC**_ 🔮
 ### Gandalf response
 `«In a quaint village nestled between rolling hills and ancient forests [...] She knew she had to protect her home and the **magic** she had discovered [...] using their **magic** to nurture her community [...]»`
 
+---
 
 <a name="Level2"></a>
 ### Level 2
