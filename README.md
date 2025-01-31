@@ -5,7 +5,7 @@
 </div>
 
 ### What is Gandalf?
-Gandalf is an exciting game designed to challenge your ability to interact with large language models (LLMs). 
+[Gandalf](https://gandalf.lakera.ai/intro) is an exciting game designed to challenge your ability to interact with large language models (LLMs). 
 
 ### What should I do? 
 Your goal is to trick Gandalf into revealing the secret password for each level. However, Gandalf will level up each time you guess the password.
