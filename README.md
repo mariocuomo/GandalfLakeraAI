@@ -1,5 +1,9 @@
 # Gandalf Lakera AI
 
+<div align="center">
+  <img src="https://github.com/mariocuomo/GandalfLakeraAI/blob/main/img/welcometogandalf.png" width="900"> </img>
+</div>
+
 ### What is Gandalf?
 Gandalf is an exciting game designed to challenge your ability to interact with large language models (LLMs). 
 
@@ -12,5 +16,6 @@ The main Gandalf game consists of 7 levels, each more challenging than the last,
 ### What's in the end?
 Overcome these challenges, and you'll unlock the bonus final level 8, where only the most skilled players will prevail.
 
+---
 
 This repo contains my prompts for each challenge.
